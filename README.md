@@ -7,4 +7,4 @@ MySQL stores data in tables made up of rows and columns, and uses Structured Que
 <br><br>
 ![](2GU.gif)
 <br>
-***Enjoy it!***
+***Enjoy it!**
